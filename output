@@ -1,0 +1,28 @@
+Welcome to the Train Reservation System
+1. Book a seat
+2. Check seat availability
+3. Exit
+Enter your choice: 1
+Enter seat number to book: 3
+Seat 3 booked
+Welcome to the Train Reservation System
+1. Book a seat
+2. Check seat availability
+3. Exit
+Enter your choice: 2
+Seats availability:
+Seat 1: Available
+Seat 2: Available
+Seat 3: Booked
+Seat 4: Available
+Seat 5: Available
+Seat 6: Available
+Seat 7: Available
+Seat 8: Available
+Seat 9: Available
+Seat 10: Available
+Welcome to the Train Reservation System
+1. Book a seat
+2. Check seat availability
+3. Exit
+Enter your choice: 
